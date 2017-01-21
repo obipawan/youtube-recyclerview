@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">YouTubeList Example</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_item_list">Items</string>
+    <string name="title_item_detail">Item Detail</string>
+    <string name="video_component_tag">video_container</string>w
+</resources>

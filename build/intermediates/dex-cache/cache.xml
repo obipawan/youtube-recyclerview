@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/m02111/mynt-dev/YouTubeList/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/m02111/mynt-dev/YouTubeList/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_286fc7e1b07639b51b4531cf2f1ebab2ac5dcd7d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/m02111/mynt-dev/YouTubeList/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b266c8faa5af72e579b9da36ef35053ffed6ac64">
+        <dex dex="/Users/m02111/mynt-dev/YouTubeList/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-25.1.0_0ae1c7b98e054456438cd850924bf78634d1690c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/m02111/mynt-dev/YouTubeList/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="98786c1770b531b9194fb6448b2a2692c64074b6">
+        <dex dex="/Users/m02111/mynt-dev/YouTubeList/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-0.11.0_114183456a79212ac10d78ee03dd5f9ea33486ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/m02111/mynt-dev/YouTubeList/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/m02111/mynt-dev/YouTubeList/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_49e63a2d40665e3dc38012398b5f5b89732e7918.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/m02111/mynt-dev/YouTubeList/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/m02111/mynt-dev/YouTubeList/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-25.1.0_ef53534b3865946ecadc3ae07ce52b39bf654096.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/m02111/mynt-dev/YouTubeList/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/m02111/mynt-dev/YouTubeList/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-25.1.0_c5fa6c2920c433808b3554ea6c2d65f5eb343a19.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/m02111/mynt-dev/YouTubeList/app/libs/YouTubeAndroidPlayerApi-1.2.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3c4f96ff493456651cc7bdb0b47e10eb25545a16">
+        <dex dex="/Users/m02111/mynt-dev/YouTubeList/app/build/intermediates/pre-dexed/debug/YouTubeAndroidPlayerApi-1.2.2_45099364935710b2574c9abc427765ac352c4c78.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/m02111/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.1.0/aa557d71ead91cbf26e0c316a0f593d168303309/converter-gson-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/m02111/mynt-dev/YouTubeList/app/build/intermediates/pre-dexed/debug/converter-gson-2.1.0_27596106a22451fb41bd32155b67d7a791c3f733.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/m02111/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/m02111/mynt-dev/YouTubeList/app/build/intermediates/pre-dexed/debug/okio-1.8.0_66a7cdc83e20f8c2f0bc12215989954499f1890e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/m02111/mynt-dev/YouTubeList/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/m02111/mynt-dev/YouTubeList/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-25.1.0_ca85dd5323ff853887aab3d4b8cb206ef23e6cdc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/m02111/mynt-dev/YouTubeList/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/m02111/mynt-dev/YouTubeList/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-25.1.0_5c815648220b49d8638b5c5fbf0c7d71cfd5e64a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/m02111/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.8.0/c4ba5371a29ac9b2ad6129b1d39ea38750043eff/gson-2.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c4ba5371a29ac9b2ad6129b1d39ea38750043eff">
+        <dex dex="/Users/m02111/mynt-dev/YouTubeList/app/build/intermediates/pre-dexed/debug/gson-2.8.0_1edf942ec491b3ae15345a294eb3c7dd04763eca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/m02111/mynt-dev/YouTubeList/app/build/intermediates/exploded-aar/com.android.support/design/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="30103d98fa5ed824b54af839c85e2111f9bde8ec">
+        <dex dex="/Users/m02111/mynt-dev/YouTubeList/app/build/intermediates/pre-dexed/debug/com.android.support-design-25.1.0_f4a1130a48a5c08ee27e2edd40663ea4b2379d1b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/m02111/mynt-dev/YouTubeList/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/m02111/mynt-dev/YouTubeList/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-25.1.0_d3e8dbc91a1d55f4ba2bcbab6b3530943cab4274.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/m02111/mynt-dev/YouTubeList/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1137942adeb03984c1311b662363dd38fc238fd3">
+        <dex dex="/Users/m02111/mynt-dev/YouTubeList/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-0.11.0_607010a21cee10b4b3f8f9b1cc2407c910ea49b2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/m02111/mynt-dev/YouTubeList/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ca63c521b5745ae9a09629d7ca67ff6bc2a967fe">
+        <dex dex="/Users/m02111/mynt-dev/YouTubeList/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-0.11.0_7fea1d319236ea6ce5d10bd6ef8155f3bfbda344.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/m02111/mynt-dev/YouTubeList/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d31aadf33187c37a7cd63dc1b769f8c6e33f78c3">
+        <dex dex="/Users/m02111/mynt-dev/YouTubeList/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-0.11.0_08e946daafbea767a11ca8200f906574d1527bda.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/m02111/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.0/2b802460eea20f8f2ad9c08c74e0f14718e88aa9/okhttp-3.3.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2b802460eea20f8f2ad9c08c74e0f14718e88aa9">
+        <dex dex="/Users/m02111/mynt-dev/YouTubeList/app/build/intermediates/pre-dexed/debug/okhttp-3.3.0_3a080494bc5801352d5704143e1335a081d72c09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/m02111/mynt-dev/YouTubeList/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/m02111/mynt-dev/YouTubeList/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_0997bb06113b994c5148f545ac45a4a1465b6dbc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/m02111/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/m02111/mynt-dev/YouTubeList/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_f75ffd3755907c0767e789756346ff6fc0c366c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/m02111/Documents/mybin/android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.0/support-annotations-25.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="64cb6b229a8bdfd907bc8dd46839a0053e4c018d">
+        <dex dex="/Users/m02111/mynt-dev/YouTubeList/app/build/intermediates/pre-dexed/debug/support-annotations-25.1.0_44921b55a3b70198930dbe64ba17eae2ccc66cdd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/m02111/mynt-dev/YouTubeList/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/0.11.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="3341b66c54367e777a0647e2db96c045329bfeab">
+        <dex dex="/Users/m02111/mynt-dev/YouTubeList/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-0.11.0_bbf54e6ddc2812fffbb0f8688804e6752e1453fc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/m02111/mynt-dev/YouTubeList/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/m02111/mynt-dev/YouTubeList/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_7b281858b2e1c4e6dce2cf75a277c7ab1ad7bfc3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/m02111/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/m02111/mynt-dev/YouTubeList/app/build/intermediates/pre-dexed/debug/library-2.4.0_8573a77b00529ce3bb56ffba68661728b3cb6031.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/m02111/mynt-dev/YouTubeList/app/build/intermediates/exploded-aar/com.android.support/transition/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="d38084015027549951cbaea5d5f6fb795cc81151">
+        <dex dex="/Users/m02111/mynt-dev/YouTubeList/app/build/intermediates/pre-dexed/debug/com.android.support-transition-25.1.0_231867fbe1c56d9a6bbb550d29eeecedaeccc8e1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/m02111/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.1.0/2de7cd8b95b7021b1d597f049bcb422055119f2c/retrofit-2.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.1"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/m02111/mynt-dev/YouTubeList/app/build/intermediates/pre-dexed/debug/retrofit-2.1.0_0077628612f034496889bdbbc85602f49a94bf7d.jar" />
+    </item>
+
+</items>
